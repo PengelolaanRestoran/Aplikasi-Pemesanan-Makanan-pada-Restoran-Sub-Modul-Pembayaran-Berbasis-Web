@@ -3,16 +3,16 @@
 This is my project 2 repository for educational purposes
 
 # Pre Requisite
-Windows Operating System
-XAMPP v3.2.1
-Sublime Text v3
-Yii2 Framework
-Google Chrome
+* Windows Operating System
+* XAMPP v3.2.1
+* Sublime Text v3
+* Yii2 Framework
+* Google Chrome
 
 # About
-Nurila Faradila Irfan	
-1144121	
-D4 TI 3A
+* Nurila Faradila Irfan	
+* 1144121	
+* D4 TI 3A
 
 # Reference
 https://id.wikipedia.org (tanggal akses : 13/10/2016, 19:39 WIB)
